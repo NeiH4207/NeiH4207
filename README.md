@@ -12,12 +12,6 @@ Facts about me -->
 - 🥅 Ability to build the algorithms for deep reinforcement learning (MCTS, DQN, PPO, TD3,..)
 - 📫 Design the database management system (PostgreSQL, MySQL, Hadoop, Spark,...)
 
-<p align="center">
-    <a href="https://github.com/NeiH4207/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiH4207&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&theme=great-gatsby&layout=compact)](https://github.com/NeiH4207)
