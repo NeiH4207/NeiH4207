@@ -20,7 +20,7 @@ Facts about me -->
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-<h4> Languages </h4>
+<h4> Favourite Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -34,12 +34,6 @@ Facts about me -->
   <img src="https://img.shields.io/badge/SparkSQL-20A10F?style=for-the-badge&logo=spark&logoColor=orange">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 
 <h4> Operating System </h4>
 <span>
