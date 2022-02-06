@@ -13,8 +13,8 @@ Facts about me -->
 - 📫 Design the database management system (PostgreSQL, MySQL, Hadoop, Spark,...)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiH4207&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&theme=great-gatsby&layout=compact)](https://github.com/NeiH4207)
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiH4207&show_icons=true&count_private=true) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&layout=compact)](https://github.com/NeiH4207)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
