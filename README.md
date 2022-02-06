@@ -31,7 +31,8 @@ Facts about me -->
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SparkSQL-20A10F?style=for-the-badge&logo=spark&logoColor=orange">
+  <img src="https://img.shields.io/badge/PosgreSQL-00000F?style=for-the-badge&logo=postgres&logoColor=white">
+  <img src="https://img.shields.io/badge/SparkSQL-00599C?style=for-the-badge&logo=spark&logoColor=orange">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
