@@ -9,8 +9,8 @@ Facts about me -->
 - 🌱 Experiment in evolution computation, single-objective, multi-objective optimization
 - 👯 Build model for natural language, speech processing, bioinformatics, computer vision
 - 🤔 Good knowledge of data structures and algorithms, design and analyze complex algorithms
-- 🥅 Ability to build the algorithms for deep reinforcement learning (MCTS, DQN, PPO, TD3,..)
-- 📫 Design the database management system (PostgreSQL, MySQL, Hadoop, Spark,...)
+- 🥅 Ability to build the algorithms for deep reinforcement learning
+- 📫 Design the database management system
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiH4207&show_icons=true&count_private=true) </br>
