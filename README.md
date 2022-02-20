@@ -7,7 +7,7 @@ I am Vu Quoc Hien, I am currently pursuing my Bachelors in computer engineering 
 Facts about me -->
 
 - 🌱 Experiment in evolution computation, single-objective, multi-objective optimization
-- 👯 Construct the model for natural language, speech processing, bioinformatics, computer vision, and family fields.
+- 👯 Construct the model for Speech and Language Processing, Bioinformatics, Computer vision, and related fields.
 - 🤔 Good knowledge of data structures and algorithms, design and analyze complex algorithms
 - 🥅 Build the algorithms for deep reinforcement learning
 - 📫 Design and deploy the database management system
