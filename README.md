@@ -12,6 +12,8 @@ About me -->
 
 🥅 Experience in designing and deploying the database management system.
 
+-------
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiH4207&show_icons=true&count_private=true) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&layout=compact)](https://github.com/NeiH4207)
