@@ -7,7 +7,9 @@ I am Vu Quoc Hien, I am currently pursuing my Bachelors in computer engineering 
 About me -->
 
 🌱 Research in evolution computation, single-objective, multi-objective optimization.
+
 👯 Modeling for NLP, Bioinformatics, CV, RL.
+
 🥅 Experience in designing and deploying the database management system.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
