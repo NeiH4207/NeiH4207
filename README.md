@@ -4,13 +4,11 @@ I am Vu Quoc Hien, I am currently pursuing my Bachelors in computer engineering 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeiH4207" alt="NeiH4207" /> </p>
 
-Facts about me -->
+About me -->
 
-- 🌱 Experiment in evolution computation, single-objective, multi-objective optimization
-- 👯 Construct the model for Speech and Language Processing, Bioinformatics, Computer vision, and related fields.
-- 🤔 Good knowledge of data structures and algorithms, design and analyze complex algorithms
-- 🥅 Build the algorithms for deep reinforcement learning
-- 📫 Design and deploy the database management system
+🌱 Research in evolution computation, single-objective, multi-objective optimization.
+👯 Modeling for NLP, Bioinformatics, CV, RL.
+🥅 Experience in designing and deploying the database management system.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiH4207&show_icons=true&count_private=true) </br>
