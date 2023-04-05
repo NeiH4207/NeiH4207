@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vu Quoc Hien, I am currently pursuing my Bachelors in computer engineering from [Hanoi University of Science and Technology](https://www.hust.edu.vn/). I am a tech enthusiast & a self learner.
+My name is Vu Quoc Hien, I am a Data Scientist. I am a tech enthusiast & a self-learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeiH4207" alt="NeiH4207" /> </p>
 
@@ -10,7 +10,7 @@ About me -->
 
 👯 Modeling for NLP, Bioinformatics, CV, RL.
 
-🥅 Experience in designing and deploying the database management system.
+🥅 Designing and deploying the database management system.
 
 -------
 
