@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vu Quoc Hien, I am a Data Scientist. I am a tech enthusiast & a self-learner.
+My name is Vu Quoc Hien, I am a Data Scientist.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeiH4207" alt="NeiH4207" /> </p>
 
