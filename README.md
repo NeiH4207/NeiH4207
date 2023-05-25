@@ -12,6 +12,8 @@ About me -->
 
 🥅 Designing and deploying the database management system.
 
+I hope you learned something new! If you did, consider following the footsteps of the readers who [bought me a slice of pizza 🍕](https://www.buymeacoffee.com/neih4207). Your contribution boosts my confidence and helps me produce this content for you.
+
 -------
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
