@@ -6,13 +6,11 @@ My name is Vu Quoc Hien, I am a Data Scientist.
 
 About me -->
 
-🌱 Research in evolution computation, single-objective, multi-objective optimization.
+🌱 Research in neuro-evolution computation, optimization, and simulated heuristic algorithms.
 
-👯 Modeling for NLP, Bioinformatics, CV, RL.
+👯 Modeling for Natural Language Processing, Bio-informatics, Computer Vision, Reinforcement learning.
 
-🥅 Designing and deploying the database management system.
-
-I hope you learned something new! If you did, consider following the footsteps of the readers who [bought me a slice of pizza 🍕](https://www.buymeacoffee.com/neih4207). Your contribution boosts my confidence and helps me produce this content for you.
+I hope you learned something new!
 
 -------
 
@@ -52,4 +50,4 @@ I hope you learned something new! If you did, consider following the footsteps o
 -----
 Credits: [Hien VQ](https://github.com/NeiH4207)
 
-Last Edited on: 06/02/2022
+Last Edited on: 12/11/2023
