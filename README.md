@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vu Quoc Hien, I am a Data Scientist.
+My name is Vu Quoc Hien, I am a AI Scientist.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeiH4207" alt="NeiH4207" /> </p>
 
@@ -23,13 +23,12 @@ I hope you learned something new!
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://fb.com/NeiH4207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://instagram.com/neih4207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
-<a href="https://github.com/NeiH4207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HienVQ" height="30" width="40" /></a>
-<a href="[https://github.com/NeiH4207](https://www.linkedin.com/in/neihvq23/)" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="HienVQ" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neihvq23/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="HienVQ" height="30" width="40" /></a>
     
 <br>
 
 
 -----
-Credits: [Hien VQ](https://github.com/NeiH4207)
+Credits: [Hien VQ](https://neih4207.github.io/)
 
-Last Edited on: 12/11/2023
+Last Edited on: Aug 14, 2024
