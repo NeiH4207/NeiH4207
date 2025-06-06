@@ -1,35 +1,75 @@
-### Hi there 👋
+### Hi there 👋, my name is Vu Quoc Hien
 
-My name is Vu Quoc Hien, I am an AI Scientist.
+I am an AI Scientist with a passion for pushing the boundaries of artificial intelligence.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeiH4207" alt="NeiH4207" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NeiH4207&color=blueviolet" alt="Profile views" />
+</p>
 
-About me -->
+---
 
-🌱 Research in neuro-evolution computation, optimization, and simulated heuristic algorithms.
+### 👨‍💻 About Me
 
-🤖 Modeling for Natural Language Processing, Bio-informatics, Computer Vision, Reinforcement learning.
+I am an AI Scientist specializing in the research and application of advanced computational models. My work focuses on creating intelligent systems that can learn, adapt, and solve complex problems.
 
-🔗 [Google Scholar](https://scholar.google.com/citations?user=tp3X_iQAAAAJ&hl=en&oi=ao)
+- 🌱 My core research interests include **neuro-evolutionary computation**, **optimization algorithms**, and **simulated heuristics**.
+- 🤖 I have hands-on experience in building and deploying models for **Natural Language Processing (NLP)**, **Bio-informatics**, **Computer Vision**, and **Reinforcement Learning**.
+- 🔭 I’m currently exploring new frontiers in AI and always open to collaborating on innovative projects.
+- 💬 Ask me about anything related to my work or feel free to connect!
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://fb.com/NeiH4207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
-<a href="https://instagram.com/neih4207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/neihvq23/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="HienVQ" height="30" width="40" /></a>
+---
 
-I hope you learned something new!
+### 🚀 My Research and Publications
 
--------
+I am actively contributing to the scientific community. You can find my publications and research work on my Google Scholar profile.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true)
-<!-- ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeiH4207&show_icons=true&count_private=true) </br> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&layout=compact)](https://github.com/NeiH4207)
-</br>
+🔗 **[Google Scholar Profile](https://scholar.google.com/citations?user=tp3X_iQAAAAJ&hl=en&oi=ao)**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/NeiH4207">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&layout=compact&theme=dracula" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NeiH4207">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true" />
+  </a>
+</p>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    
-<br>
 
------
-Credits: [Hien VQ](https://neih4207.github.io/)
+---
 
-Last Edited on: Aug 14, 2024
+### 📫 Let's Connect!
+
+I'm always open to connecting with fellow researchers, developers, and AI enthusiasts.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/neihvq23/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://neih4207.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A4A4A?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
+  </a>
+</p>
+
+---
+<p align="center">
+  Credits: [Hien VQ](https://neih4207.github.io/)
+</p>
