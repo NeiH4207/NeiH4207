@@ -1,21 +1,12 @@
 ### Hi there 👋, my name is Vu Quoc Hien
 
-I am an AI Scientist with a passion for pushing the boundaries of artificial intelligence.
+I'm an AI research engineer specializing in large language models (LLMs), deep learning, reinforcement learning, and open-source development.
+
+My work focuses on AI research, building practical tools, and sharing knowledge and open-source contributions.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NeiH4207&color=blueviolet" alt="Profile views" />
 </p>
-
----
-
-### 👨‍💻 About Me
-
-I am an AI Scientist specializing in the research and application of advanced computational models. My work focuses on creating intelligent systems that can learn, adapt, and solve complex problems.
-
-- 🌱 My core research interests include **neuro-evolutionary computation**, **optimization algorithms**, and **simulated heuristics**.
-- 🤖 I have hands-on experience in building and deploying models for **Natural Language Processing (NLP)**, **Bio-informatics**, **Computer Vision**, and **Reinforcement Learning**.
-- 🔭 I’m currently exploring new frontiers in AI and always open to collaborating on innovative projects.
-- 💬 Ask me about anything related to my work or feel free to connect!
 
 ---
 
